@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background: linear-gradient(royalblue 0%, lightblue 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px dimgray;
+    font-size: 20px;
+}
+
+#bio {
+    text-align: center;
+    font-size: 18;
+    padding: 20px;
+}
+
+
+p {
+    color: black;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
